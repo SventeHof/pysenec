@@ -4,5 +4,8 @@
         "aiohttp",
         "pysenec",
         "senec"
-    ]
+    ],
+    "files.associations": {
+        "*.yaml": "home-assistant"
+    }
 }
